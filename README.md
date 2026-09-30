@@ -104,11 +104,11 @@ You can search in Service-> instances ans subscriptions
 <img width="1110" height="425" alt="image" src="https://github.com/user-attachments/assets/e3df7e81-b700-4d4e-b077-3d0af79f5d98" />
 
 To be able to access the integraton suite we need proper oermissions.
-Security-> user-> select our user-> click on Role collection and assign Role collection
+Security-> user-> select our user-> click on Role collection and assign Role collection -> search for 'Integration Provisioner'.
 
 <img width="1165" height="357" alt="image" src="https://github.com/user-attachments/assets/7cbe5122-d41e-4ae1-b8b6-d0dbe15e257f" />
 
-search for integration. provisioner.
+
 
 
 This role will help you to access basic functionalites of integration suite.
@@ -119,14 +119,16 @@ Go back to Instances and subscription again and launch integration suite.
 
 
 
-NOTE: in case of any error, clear ur cache and login to sap btp and try access it again.
+NOTE: In case of any error, clear your browser cache and login to SAP BTP and try access it again.
 
-to able to accees SAP CPI, need to add some capabilities
+
+
+To be able to access SAP CPI, you need to add some capabilities:
 
 <img width="882" height="544" alt="image" src="https://github.com/user-attachments/assets/c122de65-7dfe-4165-a362-e82ba1a7a908" />
 
 
-for thw time being, select only Business Integration Scenarios and activate. (it can take up to 10 min)
+For the time being, select only Business Integration Scenarios and activate. (it can take up to 10 min)
 
 
 
