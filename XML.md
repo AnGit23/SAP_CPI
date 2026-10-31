@@ -35,9 +35,12 @@ Self closing tag: They jst have a closing tag. It means that that node does not 
 This is very important because the routing between XML elements and filter conditions are applied using XPath.
 <img width="922" height="579" alt="image" src="https://github.com/user-attachments/assets/8fcd8ce9-a5a8-4ec2-a14d-0bd37cf06d53" />
 
-
-
 <img width="750" height="510" alt="image" src="https://github.com/user-attachments/assets/df6ce920-eb2e-4734-bd75-178e71484d1d" />
+
+Relative and absolute path is given wrongly in picture:
+
+
+<img width="576" height="335" alt="image" src="https://github.com/user-attachments/assets/3f749e24-5800-45df-be3f-db8d3136e323" />
 
 **
 XML Namespace**
