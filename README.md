@@ -130,6 +130,7 @@ To be able to access SAP CPI, you need to add some capabilities:
 
 For the time being, select only Business Integration Scenarios and activate. (it can take up to 10 min)
 
+<img width="1440" height="702" alt="image" src="https://github.com/user-attachments/assets/554dec70-413f-40a4-9560-2f479b9817be" />
 
 
 We can add few more roles for the user.
@@ -158,7 +159,7 @@ SAP provides a library of ready-made integrations called **packages**. Each pack
 
 These standard packages can be copied and configured for customer-specific requirements — for example, adding credentials or endpoint URLs.
 
-<img width="1182" height="324" alt="image" src="https://github.com/user-attachments/assets/2798563f-a7bc-4223-ba4d-a233c28334a2" />
+<img width="1137" height="538" alt="image" src="https://github.com/user-attachments/assets/3ca1c3dc-35be-460f-9ead-08685e2dca1e" />
 
 ## Design
 
@@ -167,7 +168,7 @@ This is where integrations are built and managed. It has two areas:
 - **Standard Integrations** — pre-built packages provided by SAP
 - **Customer Integrations** — custom integrations developed by the project team
 
-<img width="1137" height="538" alt="image" src="https://github.com/user-attachments/assets/3ca1c3dc-35be-460f-9ead-08685e2dca1e" />
+<img width="1182" height="324" alt="image" src="https://github.com/user-attachments/assets/2798563f-a7bc-4223-ba4d-a233c28334a2" />
 
 <img width="1194" height="379" alt="image" src="https://github.com/user-attachments/assets/40c87c52-63bc-4072-ae5f-40050b7d238c" />
 
@@ -186,7 +187,7 @@ Used to track the status of integration flows — view error messages, execution
 
 <img width="1021" height="391" alt="image" src="https://github.com/user-attachments/assets/f12ae716-0141-4cd1-b373-5191177d45de" />
 
-## Manage Security
+# Manage Security
 
 A centralized place to store and manage sensitive data:
 - User credentials
@@ -196,7 +197,7 @@ A centralized place to store and manage sensitive data:
 
 <img width="1085" height="394" alt="image" src="https://github.com/user-attachments/assets/c2313412-7e1b-49f4-9142-a94e3438d15c" />
 
-## Manage Stores
+# Manage Stores
 
 Provides temporary storage within CPI for intermediate data handling during integration processing.
 
