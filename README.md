@@ -34,7 +34,7 @@ You can integrate data between SAP-to-SAP and SAP-to-non-SAP systems.
 **Without CPI:** Manual updates — slow and error-prone at scale (thousands of employees).
 
 **With CPI:** An integration flow reads data from SuccessFactors, transforms it, and sends it to ADP automatically.
-
+QUESTION: What is the trigger from success factor bcz of which the iFlow will trigger??
 <img width="1135" height="203" alt="image" src="https://github.com/user-attachments/assets/3c36a3f5-46d8-4d4f-8642-108fcf378149" />
 
 
